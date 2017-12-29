@@ -1,1 +1,3 @@
 Adicionando texto pela 1° vez neste artigo   -   Branch escreve
+
+Adicionando texto pela 2° vez neste arquivo -    Branch escreve2
